@@ -15,4 +15,4 @@ Se ejecuto lo siguiente:
 3. pip3 install gym-retro
 4. python3 -m retro.import roms
 5. python Sonic_semestral.py
-
+6.python Vectorman2_semestral.py
